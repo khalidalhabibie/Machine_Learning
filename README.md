@@ -1,3 +1,3 @@
 # Machine_Learning
 
-just simple code, dataset : titanic and rock scissors paper
+just simple code, just individual project
